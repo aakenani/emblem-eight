@@ -1,0 +1,15 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["iad1"],
+  "env": {
+    "NEXT_PUBLIC_SANITY_PROJECT_ID": "@sanity-project-id",
+    "NEXT_PUBLIC_SANITY_DATASET": "@sanity-dataset",
+    "NEXT_PUBLIC_SANITY_API_VERSION": "2024-03-15",
+    "NEXT_PUBLIC_MEILISEARCH_HOST": "@meilisearch-host",
+    "NEXT_PUBLIC_R2_PUBLIC_URL": "@r2-public-url"
+  }
+}
+

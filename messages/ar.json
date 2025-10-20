@@ -1,0 +1,65 @@
+{
+  "Navigation": {
+    "home": "الرئيسية",
+    "gallery": "المعرض",
+    "upload": "رفع",
+    "search": "بحث"
+  },
+  "Gallery": {
+    "title": "معرض الأرشيف",
+    "viewMode": "وضع العرض",
+    "grid": "شبكة",
+    "list": "قائمة",
+    "masonry": "بناء",
+    "sortBy": "ترتيب حسب",
+    "dateAdded": "تاريخ الإضافة",
+    "title_sort": "العنوان",
+    "noImages": "لا توجد صور في الأرشيف بعد",
+    "uploadFirst": "ارفع صورك الأولى للبدء",
+    "totalImages": "إجمالي الصور"
+  },
+  "Upload": {
+    "title": "رفع الصور",
+    "dropzone": "اسحب وأفلت الصور هنا، أو انقر للاختيار",
+    "uploading": "جارٍ الرفع...",
+    "success": "تم رفع الصور بنجاح",
+    "error": "خطأ في رفع الصور",
+    "bulkUpload": "رفع جماعي",
+    "supportedFormats": "المدعوم: JPG, PNG, WebP, GIF"
+  },
+  "ImageDetail": {
+    "title": "تفاصيل الصورة",
+    "edit": "تحرير",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "metadata": "البيانات الوصفية",
+    "description": "الوصف",
+    "tags": "الوسوم",
+    "aiInsights": "رؤى الذكاء الاصطناعي",
+    "generateInsights": "إنشاء رؤى الذكاء الاصطناعي",
+    "date": "التاريخ",
+    "source": "المصدر",
+    "author": "المؤلف",
+    "location": "الموقع",
+    "delete": "حذف",
+    "download": "تنزيل"
+  },
+  "Search": {
+    "placeholder": "البحث في الصور والأوصاف والوسوم...",
+    "results": "نتائج",
+    "noResults": "لا توجد نتائج",
+    "clearSearch": "مسح البحث"
+  },
+  "Common": {
+    "loading": "جارٍ التحميل...",
+    "error": "خطأ",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تحرير",
+    "close": "إغلاق",
+    "confirm": "تأكيد",
+    "languageSwitcher": "اللغة"
+  }
+}
+

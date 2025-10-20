@@ -1,0 +1,42 @@
+# Emblem Eight - Project Guidelines
+
+## Tech Stack
+- Next.js 14 with App Router
+- TypeScript
+- Tailwind CSS + shadcn/ui
+- next-intl for i18n
+- Sanity CMS
+- Cloudflare R2
+- Meilisearch
+
+## Code Style
+- Use functional components with hooks
+- Prefer server components unless interactivity is needed
+- Use 'use client' directive only when necessary
+- TypeScript strict mode enabled
+- Use Tailwind classes, avoid inline styles
+
+## File Organization
+- Components in /components with subfolders by feature
+- API routes in /app/api
+- Utilities in /lib
+- Keep components focused and single-purpose
+
+## i18n
+- All user-facing text must use translations
+- Support both LTR (English) and RTL (Arabic)
+- Use useTranslations hook in client components
+- Use getTranslations in server components
+
+## Performance
+- Use Next.js Image component for all images
+- Implement proper loading states
+- Lazy load components when appropriate
+- Optimize API calls with proper caching
+
+## Accessibility
+- Use semantic HTML
+- Provide alt text for images
+- Ensure keyboard navigation works
+- Support RTL properly
+

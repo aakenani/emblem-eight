@@ -1,0 +1,65 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "upload": "Upload",
+    "search": "Search"
+  },
+  "Gallery": {
+    "title": "Archive Gallery",
+    "viewMode": "View Mode",
+    "grid": "Grid",
+    "list": "List",
+    "masonry": "Masonry",
+    "sortBy": "Sort By",
+    "dateAdded": "Date Added",
+    "title_sort": "Title",
+    "noImages": "No images in archive yet",
+    "uploadFirst": "Upload your first images to get started",
+    "totalImages": "Total Images"
+  },
+  "Upload": {
+    "title": "Upload Images",
+    "dropzone": "Drag and drop images here, or click to select",
+    "uploading": "Uploading...",
+    "success": "Images uploaded successfully",
+    "error": "Error uploading images",
+    "bulkUpload": "Bulk Upload",
+    "supportedFormats": "Supported: JPG, PNG, WebP, GIF"
+  },
+  "ImageDetail": {
+    "title": "Image Details",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "metadata": "Metadata",
+    "description": "Description",
+    "tags": "Tags",
+    "aiInsights": "AI Insights",
+    "generateInsights": "Generate AI Insights",
+    "date": "Date",
+    "source": "Source",
+    "author": "Author",
+    "location": "Location",
+    "delete": "Delete",
+    "download": "Download"
+  },
+  "Search": {
+    "placeholder": "Search images, descriptions, tags...",
+    "results": "results",
+    "noResults": "No results found",
+    "clearSearch": "Clear search"
+  },
+  "Common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "confirm": "Confirm",
+    "languageSwitcher": "Language"
+  }
+}
+
